@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+header.main-header {
+    background-color: #f0fff0;
+    height: 155px;
+}
+
+
+.sign-btn {
+    background: #21B573;
+    border-radius: 20px;
+    padding: 4px 0px;
+    color: white  !important;
+}
+.banner-section {
+    background-color: #f0fff0;
+    height: 500px;
+}
+.banner-title h5 {
+    color: #FD511A;
+}
+.banner-title h2 {
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.banner-title h6 {
+    font-size: 16px;
+    line-height: 36px;
+    margin-bottom: 35px;
+}
+.banner-title {
+    padding-right: 80px;
+}
+.banner-title span {
+    color: #21B573;
+}
+.primary-btn {
+    border: none;
+    color: white;
+    font-weight: 500;
+    background-color: #21B573;
+    padding: 10px 35px;
+    border-radius: 20px;
+}
