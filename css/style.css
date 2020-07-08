@@ -5,6 +5,13 @@ body{
 img{
     width: 100%;
 }
+.container {
+    margin-bottom: 65px;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
 header.main-header {
     background-color: #f0fff0;
     height: 155px;
@@ -20,6 +27,7 @@ header.main-header {
 .banner-section {
     background-color: #f0fff0;
     height: 500px;
+    margin-bottom: 80px;
 }
 .banner-title h5 {
     color: #FD511A;
@@ -48,6 +56,89 @@ header.main-header {
     color: white;
     font-weight: 500;
     background-color: #21B573;
-    padding: 10px 35px;
+    padding: 7px 20px;
     border-radius: 20px;
+}
+
+
+
+.card.h-100 img {
+    width: 90px;
+}
+.card-body {
+    margin: auto;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 15px lightgrey;
+    background-color: #f0fff0;
+}
+img.card-img-top {
+    width: 300px;
+    margin: auto;
+    position: relative;
+    top: 25px;
+    margin-bottom: 25px;
+}
+.icon h6 {
+    display: inline;
+    margin-left: 5px;
+}
+.card-footer {
+    background: transparent;
+    border: none;
+}
+
+
+
+
+
+
+
+
+footer {
+    background-color: #282531;
+    height: 350px;
+}
+.row.color {
+    color: white;
+}
+.testimonial-title h2 {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.testimonial-img {
+    width: 140px;
+    float: right;
+    margin-right: 35px;
+}
+p.discretion {
+    font-weight: 500;
+    margin-right: 95px;
+}.copyright-text-center {
+    text-align: center;
+}
+.row.color-white {
+    color: white;
+    margin-bottom: 50px;
+}
+.col1 {
+    position: relative;
+    top: 40px;
+    margin-right: 95px;
+}
+.items-center {
+    position: relative;
+    top: 40px;
+    margin-bottom: 70px;
+}
+.items-center h5 {
+    margin-bottom: 15px;
+}
+.items-center p {
+    margin: 5px;
+}
+.copyright-text-center h6 {
+    color: wheat;
 }
